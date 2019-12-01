@@ -10,4 +10,8 @@
     <PackageReference Include="System.Reactive" Version="4.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Rx_console_app\Rx_console_app.csproj" />
+  </ItemGroup>
+
 </Project>
